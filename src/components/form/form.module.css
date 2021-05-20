@@ -1,0 +1,16 @@
+form {
+    position: relative;
+    top: 10px
+}
+
+.formInput {
+    width: 10%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.button {
+    height: 35px;
+}

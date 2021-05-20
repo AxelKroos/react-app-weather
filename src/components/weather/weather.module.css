@@ -1,0 +1,15 @@
+.allWeathers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+}
+
+.weather {
+    position: relative;
+    top: 130px;
+    border: 1px solid #73ef26;
+    border-radius: 10px 0 10px 0;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.5);
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
