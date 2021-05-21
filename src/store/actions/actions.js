@@ -14,6 +14,7 @@ export const asyncGetWeather = (data) => dispatch => {
             city: data.name,
             country: data.sys.country,
             temp: data.main.temp,
+            weather: data.weather,
             humidity: data.main.humidity,
             speed: data.wind.speed,
             feelsLike: data.main.feels_like
@@ -35,6 +36,7 @@ export const weatherFetchData = (data) => dispatch => {
             city: data.name,
             country: data.sys.country,
             temp: data.main.temp,
+            weather: data.weather,
             humidity: data.main.humidity,
             speed: data.wind.speed,
             feelsLike: data.main.feels_like

@@ -1,3 +1,8 @@
+@keyframes show {
+
+    from {opacity: 0;} to {opacity: 1;}
+}
+
 .mainWeather {
     position: relative;
     top: 100px;
@@ -7,4 +12,5 @@
     padding: 10px;
     margin: 0 auto;
     width: 300px;
+    animation: show 2s;
 }

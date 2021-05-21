@@ -8,9 +8,9 @@ class Form extends React.Component {
         return (
             <div>
                 <form onSubmit={(event) => this.props.add(this.props.currentValue, event.preventDefault())}>
-                        <input type="text" name='city' className={classes.formInput} placeholder="Введите город"
+                        <input type="text" name='city' className={classes.formInput} placeholder="Enter the city"
                                onChange={(event => this.props.changeValue(event.target.value))} value={this.props.currentValue}/>
-                    <button className={classes.button}>Добавить</button>
+                    <button className={classes.button}>Add</button>
                 </form>
             </div>
         )
