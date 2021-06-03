@@ -8,7 +8,7 @@
 - :white_check_mark: Добавлять/удалять города
 - :white_check_mark: Взаимодействие с поисковой строкой на любом языке
 
-### Стек: React+Redux
+### Стек: React+Redux 
 
 ![17DYkJgM](https://user-images.githubusercontent.com/79835478/120600875-ef3bc980-c451-11eb-96ed-2855011ad60e.jpg)
 # Getting Started with Create React App
