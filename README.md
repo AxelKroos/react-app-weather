@@ -1,4 +1,4 @@
-# Актуальная погода в любой точке мира!
+# Актуальная погода в любой точке мира! :sunny: :cloud: :zap:  :umbrella: :snowflake:
 
 Данные берутся с сайта **https://openweathermap.org/**
 
