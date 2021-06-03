@@ -10,12 +10,13 @@
 
 .weather {
     position: relative;
+    background: rgba(41, 84, 149, 0.52);
     top: 130px;
-    border: 1px solid #73ef26;
+    border: 3px solid #69d725;
     border-radius: 10px 0 10px 0;
     box-shadow: 0 10px 10px rgba(0,0,0,0.5);
     padding: 10px;
-    margin: 10px;
+    margin: 0 auto;
     width: 300px;
     animation: show 2s;
 }

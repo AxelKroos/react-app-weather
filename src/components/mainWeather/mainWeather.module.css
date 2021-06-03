@@ -5,6 +5,7 @@
 
 .mainWeather {
     position: relative;
+    background: rgba(41, 84, 149, 0.52);
     top: 100px;
     border: 3px solid #d76b25;
     border-radius: 10px 0 10px 0;
